@@ -4,7 +4,8 @@ public class abhi{
 
         int a=3;
         int b= 2;
-        System.out.println(a+b);
+        int sum = a+b;
+        System.out.println("addition is "+sum);
     }
     
 }
